@@ -1,0 +1,13 @@
+div {
+  position: relative;
+  width: 200px;
+  height: 200px;
+  background: #b5e0ba;
+}
+html {
+  background: #5d3a3a;
+}
+* {
+  margin: 0;
+  padding: 0;
+}
